@@ -63,20 +63,6 @@ It enables structured meal tracking, real-time interaction, and data-driven insi
 
 ---
 
-## 📂 Project Structure
-NutriFlow/
-│
-├── src/
-│ ├── components/ # UI Components
-│ ├── context/ # State Management
-│ ├── services/ # API Layer (Mock)
-│ ├── types.ts # Type Definitions
-│
-├── backend/ # Express Server
-└── firebase/ # Config (Pending)
-
----
-
 ## ⚠️ Important Note
 
 🚧 This project currently runs on a **Mock API**
